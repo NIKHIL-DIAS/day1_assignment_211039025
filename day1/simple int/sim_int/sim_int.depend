@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1632665787 source:d:\day1\simple int\sim_int\main.c
+	<stdio.h>
+	<stdlib.h>
+

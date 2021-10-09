@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1632667729 source:d:\day1\2powern\powr\main.c
+	<stdio.h>
+	<math.h>
+

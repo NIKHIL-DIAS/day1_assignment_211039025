@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1631558509 source:d:\leap\main.c
+
+1631558524 source:d:\leap\oper.c
+
+1632650624 source:d:\day1\leap\main.c
+	<stdio.h>
+	"header.h"
+	"header.c"
+
+1632641199 d:\day1\leap\header.h
+
+1632650590 d:\day1\leap\header.c
+	"header.h"
+	<stdio.h>
+

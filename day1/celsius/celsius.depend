@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1631555069 source:d:\celsius\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1631555095 source:d:\day1\celsius\main.c
+	<stdio.h>
+	<stdlib.h>
+
